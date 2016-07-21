@@ -10,7 +10,7 @@ WebODF is a JavaScript library created by [KO GmbH](http://kogmbh.com). It was s
 
 ### PDF.js
 
-PDF.js is a library created by Andreas Gal and others at Mozilla Labs. It is an HTML5 technology experiment that explores building a faithful and efficient Portable Document Format (PDF) renderer without native code assistance.
+[`PDF.js`](https://github.com/mozilla/pdf.js) is a library created by Andreas Gal and others at Mozilla Labs. It is an HTML5 technology experiment that explores building a faithful and efficient Portable Document Format (PDF) renderer without native code assistance.
 
 ### Examples and more
 
